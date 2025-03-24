@@ -68,6 +68,24 @@
     font-size: 16.47px;
     color: white
 }
+.section-header-tf{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 42.67px;
+    color: black
+}
+.section-subheader-tf{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 33.03px;
+    color: black
+}
+.section-text-tf{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 19.03px;
+    color: black
+}
 
 /* Containers */
 
@@ -148,6 +166,18 @@
     width: 270px;
     height: 140px;
     background-color: gray;
+}
+.section-main-container{
+    width: 60%;
+    background-color: #fa9595;
+    position: relative;
+    left: 22px;
+}
+.section-sidebar-container{
+    width: 35%;
+    background-color: chartreuse;
+    position: relative;
+    right: 22px;
 }
 
 /* Icons & Clickables */
