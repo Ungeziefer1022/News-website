@@ -179,7 +179,26 @@
     position: relative;
     right: 22px;
 }
-
+.main-headline-container{
+    position: relative;
+    top: 105.5px;
+    height: 458.5px;
+    width: 100%;
+    background-color: #d8d8d8;
+}
+.main-headline-text-container{
+    height: 100%;
+    width: 37%;
+    background-color: #d8d8d8;
+    float: left;
+    padding-left: 22px;
+}
+.main-headline-image-container{
+    height: 100%;
+    width: 60%;
+    float: right;
+    background-color: gray;
+}
 /* Icons & Clickables */
 .anchor-link{
     color: #262126;
