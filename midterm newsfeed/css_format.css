@@ -167,6 +167,9 @@
     height: 140px;
     background-color: gray;
 }
+.article-trending-art-container:hover .article-trending-art-image-container{
+    filter: brightness(80%);
+}
 .section-main-container{
     width: 60%;
     position: relative;
