@@ -177,9 +177,21 @@
 }
 .section-sidebar-container{
     width: 35%;
-    background-color: chartreuse;
     position: relative;
     right: 22px;
+}
+.section-medium-art-container{
+    width: 100%;
+    height: 600px;
+    padding-bottom: 20px;
+}
+.section-medium-art-image-container{
+    width: 100%;
+    height: 350px;
+    background-color: gray;
+}
+.section-medium-art-container:hover .section-medium-art-image-container{
+    filter: brightness(80%);
 }
 .section-large-art-container{
     width: 100%;
